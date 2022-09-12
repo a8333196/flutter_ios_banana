@@ -1,16 +1,16 @@
-# yg_1159
+# flutter_ios_banana
 
 A new Flutter project.
 
-## Getting Started
+##开始
 
-This project is a starting point for a Flutter application.
+这个项目是一个Flutter应用程序的起点。
 
-A few resources to get you started if this is your first Flutter project:
+如果这是你的第一个Flutter项目，下面是一些帮助你开始的资源:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-[实验室:编写你的第一款Flutter应用](https://docs.flutter.dev/get-started/codelab)
+-[食谱:实用Flutter样本](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+要获得关于Flutter开发的帮助，请查看
+[在线文档](https://docs.flutter.dev/)，提供教程，
+示例，移动开发指南，以及完整的API参考。
